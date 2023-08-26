@@ -1,0 +1,17 @@
+C:\Users\adith\OneDrive\Documents\BetaCrew\obj\Debug\net7.0\BetaCrew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adith\OneDrive\Documents\BetaCrew\obj\Debug\net7.0\BetaCrew.AssemblyInfoInputs.cache
+C:\Users\adith\OneDrive\Documents\BetaCrew\obj\Debug\net7.0\BetaCrew.AssemblyInfo.cs
+C:\Users\adith\OneDrive\Documents\BetaCrew\obj\Debug\net7.0\BetaCrew.csproj.CoreCompileInputs.cache
+C:\Users\adith\OneDrive\Documents\betacrew\bin\Debug\net7.0\BetaCrew.exe
+C:\Users\adith\OneDrive\Documents\betacrew\bin\Debug\net7.0\BetaCrew.deps.json
+C:\Users\adith\OneDrive\Documents\betacrew\bin\Debug\net7.0\BetaCrew.runtimeconfig.json
+C:\Users\adith\OneDrive\Documents\betacrew\bin\Debug\net7.0\BetaCrew.dll
+C:\Users\adith\OneDrive\Documents\betacrew\bin\Debug\net7.0\BetaCrew.pdb
+C:\Users\adith\OneDrive\Documents\betacrew\obj\Debug\net7.0\BetaCrew.dll
+C:\Users\adith\OneDrive\Documents\betacrew\obj\Debug\net7.0\refint\BetaCrew.dll
+C:\Users\adith\OneDrive\Documents\betacrew\obj\Debug\net7.0\BetaCrew.pdb
+C:\Users\adith\OneDrive\Documents\betacrew\obj\Debug\net7.0\BetaCrew.genruntimeconfig.cache
+C:\Users\adith\OneDrive\Documents\betacrew\obj\Debug\net7.0\ref\BetaCrew.dll
+C:\Users\adith\OneDrive\Documents\betacrew\obj\Debug\net7.0\BetaCrew.csproj.AssemblyReference.cache
+C:\Users\adith\OneDrive\Documents\betacrew\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\adith\OneDrive\Documents\betacrew\obj\Debug\net7.0\BetaCrew.csproj.CopyComplete
